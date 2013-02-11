@@ -1,4 +1,4 @@
-
+/* This is the CSS-Stylesheet that formats the index.html page */
 
 body 	
 
@@ -9,8 +9,9 @@ body
 	     font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;  
 		 text-align: center;
 	}
-		
-div 	{  background-color:white; text-align: center; margin: 0 auto;	}
+
+div 	{  background-color:white; text-align: center; border:10px solid black; width: 520px; padding: 10px; 
+				margin-right:0px; margin-left:10px; float:center; margin: 0 auto;	}
 		
 p 	{  color: black; font-size: 18pt; }
 		
