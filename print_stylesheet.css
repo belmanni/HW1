@@ -1,0 +1,17 @@
+
+img .noprint
+{
+display: none;
+}
+
+/* Ensure the content spans the full width */
+body
+{
+width: 100%; margin: 0; float: none;
+}
+
+/* Change text colour to black */
+.lighttext
+{
+color: #000 
+}
